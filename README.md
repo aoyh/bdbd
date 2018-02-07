@@ -1,3 +1,3 @@
 # Big Data Better Decisions
 
-[![Binder - Assignment 1](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aoyh/bdbd/master?filepath=hw%2FAssignment%25201_AaronOu.ipynb)
+[![Assignment 1](https://mybinder.org/badge.svg)](https://hub.mybinder.org/user/aoyh-bdbd-6mrvs807/notebooks/hw/)
