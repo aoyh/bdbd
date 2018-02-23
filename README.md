@@ -1,3 +1,3 @@
 # Big Data Better Decisions
 
-[![Assignment 1](https://mybinder.org/badge.svg)](https://hub.mybinder.org/user/aoyh-bdbd-6mrvs807/notebooks/hw/)
+[![Check Assignments in jupyter notebook](https://mybinder.org/badge.svg)](https://hub.mybinder.org/user/aoyh-bdbd-ybx2e168/tree/hw)
